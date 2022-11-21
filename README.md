@@ -7,6 +7,8 @@
 
 ✔️Em transição de carreira
 
+✔️Pronomes: (Ela/Dela)
+
 ![Andreza GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrezaSS&show_icons=true&theme=onedark)
 
 ## Tecnologias que uso 
@@ -21,7 +23,8 @@
 
 ## Rede social
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/andreza-santos-21996b101/)  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/andreza-santos-21996b101/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dezahot/)
   </div></br>
 
 
