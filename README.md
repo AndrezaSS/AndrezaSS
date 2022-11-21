@@ -1,4 +1,11 @@
-### Olá, eu sou a Andreza Santos 👋
+### Olá, eu sou a Andreza Santos 👋</br>
+
+
+✔️Programação em JAVA
+
+✔️Apaixonada por tecnologia
+
+✔️Em transição de carreira
 
 ![Andreza GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrezaSS&show_icons=true&theme=onedark)
 
